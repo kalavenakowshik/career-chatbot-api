@@ -1,0 +1,6 @@
+# Python package dependencies for the AI Career Chatbot API
+
+flask
+google-generativeai
+python-dotenv
+flask-cors
